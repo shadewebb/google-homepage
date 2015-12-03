@@ -1,0 +1,81 @@
+#header {
+	float: right;
+	padding-right: 20px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: left;
+	padding: 10px;
+	color: #9F9F9F;
+}
+
+li a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#logo {
+	padding: 200px 0px 10px 0px;
+	height: 350;
+	width: 300px;
+	margin: auto;
+}
+
+#search {
+	width: 440px;
+	margin: auto;
+}
+
+#input {
+	width: 400px;
+	height: 25px;
+}
+
+#buttons {
+	padding: 20px 20px 0 0;
+	width: 260px;
+	margin: auto;
+}
+
+.searchbutton {
+	width: 125px;
+}
+
+#special {
+	padding-top: 10px;
+	width: 450px;
+	margin: auto;
+}
+
+#footer {
+	height: 40px;
+	width: 100%;
+	background-color: #F2F2F2;
+	position: absolute;
+	bottom: 0px;
+	right: 0;
+}
+
+.footer {
+	text-decoration: default;
+	color: #666;
+}
+
+#footerright {
+	float: right;
+	padding-right: 20px;
+}
+
+#footerleft {
+	padding-left: 20px;
+}
